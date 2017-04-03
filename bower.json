@@ -1,0 +1,20 @@
+{
+  "name": "online-store",
+  "description": "Epicodus practice exercise: creating a multi-page Angular application with routes using the Angular CLI",
+  "main": "",
+  "authors": [
+    "Maggie Harrington <maggie.harrington@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/maggie-harrington/js-online-store.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

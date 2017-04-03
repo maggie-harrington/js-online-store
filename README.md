@@ -1,4 +1,7 @@
-# OnlineStore
+# Online Store
+##### By Maggie Harrington
+###### 4-3-17
+Epicodus practice exercise: creating a multi-page Angular application with routes using the Angular CLI
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
