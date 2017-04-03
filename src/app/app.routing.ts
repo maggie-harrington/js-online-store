@@ -14,7 +14,7 @@ const appRoutes: Routes = [
     component: AboutComponent
   },
   {
-    path: 'about',
+    path: 'marketplace',
     component: MarketplaceComponent
   }
 ];
